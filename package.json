@@ -1,0 +1,17 @@
+{
+  "name": "update-wsl-host",
+  "version": "1.0.0",
+  "description": "快速更新wsl的host解析",
+  "main": "index.js",
+  "bin": {"update-wsl-host": "./index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HobaiRiku/update-wsl-host"
+  },
+  "author": "HobaiRiku<me@hobairiku.site>",
+  "license": "MIT"
+}
+ 
